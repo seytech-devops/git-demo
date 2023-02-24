@@ -1,0 +1,5 @@
+# Steps done
+1. create a GitHub repo
+2. clone a repo locally
+3. create a new branch and switch to it
+
