@@ -1,0 +1,5 @@
+# stepr done
+create repo in GitHub
+clone repo locally
+create new branch "batyr" and switch to it
+
