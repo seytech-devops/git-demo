@@ -1,2 +1,3 @@
 # Steps we've done 
 1. create github repo
+Added new changes
