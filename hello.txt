@@ -1,1 +1,5 @@
  Hello world
+ Hello world
+ Now I am good to commit
+ I am testing the git stash, and not yet ready to commit
+ Hey, I am back now and finished this file. Ready to commit.
